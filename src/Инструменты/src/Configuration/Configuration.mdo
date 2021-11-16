@@ -80,6 +80,7 @@
   <commonTemplates>CommonTemplate.УИ_Ace</commonTemplates>
   <commonTemplates>CommonTemplate.УИ_КомпонентаДляРаботыСБуферомОбмена</commonTemplates>
   <commonTemplates>CommonTemplate.УИ_MonacoEditor</commonTemplates>
+  <commonTemplates>CommonTemplate.УИ_MonacoEditorWindows</commonTemplates>
   <commonModules>CommonModule.УИ_ОбщегоНазначенияКлиент</commonModules>
   <commonModules>CommonModule.УИ_РаботаСФормами</commonModules>
   <commonModules>CommonModule.УИ_ДлительныеОперацииВызовСервера</commonModules>
@@ -101,6 +102,7 @@
   <commonModules>CommonModule.УИ_РегулярныеВыраженияКлиентСервер</commonModules>
   <commonModules>CommonModule.УИ_РедакторКодаСервер</commonModules>
   <commonModules>CommonModule.УИ_РедакторКодаКлиент</commonModules>
+  <commonModules>CommonModule.УИ_РедакторКодаВызовСервера</commonModules>
   <commonModules>CommonModule.УИ_РедакторКодаКлиентСервер</commonModules>
   <commonModules>CommonModule.УИ_БуферОбменаКлиент</commonModules>
   <commonModules>CommonModule.УИ_ПарсерXML</commonModules>
@@ -120,6 +122,7 @@
   <commonForms>CommonForm.УИ_РедакторТаблицыЗначений</commonForms>
   <commonForms>CommonForm.УИ_НастройкиОтладкиДополнительныхОбработок</commonForms>
   <commonForms>CommonForm.УИ_НастройкиИнструментов</commonForms>
+  <commonForms>CommonForm.УИ_НастройкиСохраненияИсходныхФайловКонфигурации</commonForms>
   <catalogs>Catalog.УИ_Алгоритмы</catalogs>
   <catalogs>Catalog.ДополнительныеОтчетыИОбработки</catalogs>
   <reports>Report.УИ_КонсольОтчетов</reports>
